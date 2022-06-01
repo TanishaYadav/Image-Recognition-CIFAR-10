@@ -1,6 +1,9 @@
 # Image-Recognition-CIFAR-10
 
-Read complete article here: https://machinelearninggeek.com/understanding-cnn-using-python/
+<img src="https://github.com/TanishaYadav/Image-Recognition-CIFAR-10/blob/main/CIFAR-10.png">
+
+Read the complete article at Machine Learning Geeks: https://machinelearninggeek.com/understanding-cnn-using-python/
+
 
 There is a total of 60,000 images of 10 different classes naming 
 * Airplane
